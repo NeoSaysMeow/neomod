@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "neomod:unrefined_crystal"
+  },
+  "result": "neomod:crystal",
+  "experience": 5,
+  "cookingtime": 600,
+  "group": "crystal"
+}

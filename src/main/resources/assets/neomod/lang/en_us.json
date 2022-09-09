@@ -1,0 +1,9 @@
+{
+  "item.neomod.unrefined_crystal": "Unrefined Crystal",
+  "item.neomod.crystal": "Purified Crystal",
+
+  "block.neomod.crystal_ore": "Crystal Geode",
+  "block.neomod.deepslate_crystal_ore": "Deepslate Crystal Geode",
+
+  "itemGroup.neomod.neo_items": "Neo's Items"
+}
